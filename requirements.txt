@@ -1,6 +1,2 @@
-import telebot
-import random
-import datetime
-import markup
-import sys
-import pymysql
+PyMySQL==1.1.1
+pyTelegramBotAPI==4.26.0
